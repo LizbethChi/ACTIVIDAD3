@@ -1,0 +1,44 @@
+body
+{
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4428279.jpg);
+}
+main
+{
+    margin: 50px;
+    background-color: lightpink;
+    width: 1200px;
+    height: 900px;
+}
+header
+{
+    height: 80px;
+    text-align: center;
+    background-color: lightcoral;
+}
+h1
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:mediumvioletred;
+}
+h2
+{
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+article
+{
+    margin: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img
+{   
+    border: 20px double darksalmon;
+    margin-left: 170px;
+    width: 800px;
+}
+footer
+{
+    text-align: left;
+    height: 80px;
+    background-color: lightcoral;
+}
